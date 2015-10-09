@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-ip=["192.168.0.24","192.168.0.24","192.168.0.24"]
+ip=["192.168.0.24","192.168.0.24","192.168.0.24"] //adresses a tester
 import os
 import sys
 sys.path.insert(0,'/usr/lib/python2.7/bridge')
