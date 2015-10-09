@@ -1,3 +1,3 @@
 # yun
 
-# desscript pour le yun
+# des script pour le yun
